@@ -1,10 +1,11 @@
 - 👋 Olá, eu sou o @carlospasqualidev.
-- 👀 Estou interessado em me superar todos os dias.
-- 🌱 Constantemente procuro evoluir minhas habilidades Full Stack, busco aprender cada vez mais sobre metodologias ágeis voltadas ao desenvolvimento de softwares.
-- 💞️ Estou procurando colaborar com a comunidade passando o meu conhecimento adiante.
+- 👀 Acordo todas as manhãs com o objetivo de ser alguém melhor que ontem.
+- 🌱 Estou em consntante evolucao no desenvolvimento Full Stack e cada vez mais busco aprender sobre metodologias ágeis,  principios como clean code , SOLID entre outros.
+- 💞 ️ Procuro colaborar com a comunidade passando o meu conhecimento adiante.
 - 📚 Atualmente estou estudando ReactJS, NodeJS e a metodologia SCRUM.
 - 📫 E-mail: carlos.pasquali.dev@gmail.com .
 - 📱 Telefone: 48 9 9622-3154.
+
 
 
 <!---
