@@ -3,7 +3,7 @@
 - 🌱 Estou em constante evolução no desenvolvimento Full Stack e cada vez mais busco aprender sobre metodologias ágeis, princípios como clean code, SOLID entre outros.
 - 💞 ️Procuro colaborar com a comunidade passando o meu conhecimento adiante.
 - 📚 Atualmente estou estudando ReactJS, NodeJS e React Native.
-- 📕 Livros que li recentemente: Scrum: A arte de fazer o dobro do trabalho na metade do tempo
+- 📕 Livros que li recentemente: Scrum, Sprint
 - 📫 E-mail: carlos.pasquali.dev@gmail.com.
 - 📱 Telefone: 48 9 9622-3154.
 
